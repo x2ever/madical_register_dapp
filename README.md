@@ -1,0 +1,1 @@
+# madical_register_dapp
